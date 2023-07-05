@@ -3,3 +3,5 @@
 
 ### *Scientific Computing with Python*
 https://freecodecamp.org/certification/fccf0ebb629-07a6-4def-badc-9674ee79b984/scientific-computing-with-python-v7
+### *College Algebra with Python*
+https://freecodecamp.org/certification/fccf0ebb629-07a6-4def-badc-9674ee79b984/college-algebra-with-python-v8
